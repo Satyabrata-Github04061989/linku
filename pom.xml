@@ -1,0 +1,10 @@
+<project>
+
+<modelVersion>  4.0.0  </modelVersion>
+<groupId> com.myjava  </groupId>
+<artifactId>  myjava  </artifactId>
+<version> 1.0 </version>
+<packaging> jar </packaging>
+
+
+</project>
